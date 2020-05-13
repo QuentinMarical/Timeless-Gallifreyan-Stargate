@@ -1,0 +1,25 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "timeless/stargate/light_back_sg_gallifrey"
+	"$bumpmap"    "timeless/stargate/light_back_sg_gallifrey_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$envmap" ""
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "22"
+	"$phongboost"   "3"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "timeless/shaders/phongwarp"
+	"$lightwarptexture"      "timeless/shaders/lightwarp_white_blue"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "33"	
+	"$rimlightboost" "0.6"
+}
+

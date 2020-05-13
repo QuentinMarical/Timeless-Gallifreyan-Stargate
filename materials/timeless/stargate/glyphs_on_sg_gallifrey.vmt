@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	"$basetexture" "timeless/stargate/glyphs_on_sg_gallifrey"
+	"$bumpmap"    "timeless/stargate/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$additive" 1
+	"$selfillum" 1
+}
